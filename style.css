@@ -1,0 +1,19 @@
+.card {
+    background-color: lightcoral;
+    width: 380px;
+    padding: 20px;
+    border: 5px dotted #d91e66;
+    border-radius: 18px;
+    margin-top: 50px;
+    color: white;
+    font-family: monospace;
+}
+.avatar{
+    background-color: rgb(218, 21, 159);
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+.destaque{
+    color: rgb(143, 0, 143);
+}
